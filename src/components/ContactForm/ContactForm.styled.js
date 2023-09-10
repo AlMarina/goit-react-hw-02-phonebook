@@ -6,7 +6,7 @@ export const Form = styled.form`
   margin-bottom: 30px;
   border: 1px solid;
   border-radius: 4px;
-  width: 500px;
+  width: 450px;
 
   &:focus-within {
   border-color: blue;

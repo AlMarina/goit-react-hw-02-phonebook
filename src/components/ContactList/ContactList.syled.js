@@ -3,6 +3,7 @@ import styled from 'styled-components';
 export const ListItem = styled.li`
   font-size: 18px;
   font-weight: 600;
+  margin-bottom: 10px;
 
   &::first-letter {
     text-transform: uppercase;
